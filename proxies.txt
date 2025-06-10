@@ -1,0 +1,11 @@
+# Example HTTP proxies
+http://user1:pass1@proxy1.example.com:8080
+http://user2:pass2@proxy2.example.com:8080
+http://user3:pass3@proxy3.example.com:8080
+
+# Example SOCKS5 proxies
+socks5://user4:pass4@proxy4.example.com:1080
+socks5://user5:pass5@proxy5.example.com:1080
+
+# Example SOCKS4 proxy
+socks4://user6:pass6@proxy6.example.com:1080

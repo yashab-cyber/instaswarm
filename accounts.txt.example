@@ -1,0 +1,16 @@
+# Add your Instagram accounts here in the format: username,password
+# Example:
+# testuser1,password123
+# testuser2,password456
+# testuser3,password789
+
+# IMPORTANT SECURITY NOTES:
+# 1. Never commit this file with real credentials to public repositories
+# 2. Use strong, unique passwords for your accounts
+# 3. Consider using test accounts for development
+# 4. Keep this file secure and private
+
+# Add your accounts below (remove the # to uncomment):
+# your_username1,your_password1
+# your_username2,your_password2
+# your_username3,your_password3
