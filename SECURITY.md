@@ -109,7 +109,7 @@ Stay informed about security updates by watching this repository and following Z
 ## Contact
 
 For security-related questions or concerns, contact:
-- Email: security@zehrasec.com
+- Email: yashabalam707@gmail.com
 - Website: https://zehrasec.com
 
 For general support:
