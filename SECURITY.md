@@ -18,7 +18,7 @@ If you believe you have found a security vulnerability in InstaSwarm, please rep
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please send an email to security@zehrasec.com with the following information:
+Instead, please send an email to yashabalam707@gmail.com with the following information:
 
 - Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
 - Full paths of source file(s) related to the manifestation of the issue
